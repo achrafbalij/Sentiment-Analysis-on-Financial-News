@@ -16,8 +16,9 @@ pip install -r requirements.txt
 The Dataset used is a kaggle dataset "FinancialPhraseBank". It contains the sentiments for financial news headlines from the perspective of a retail investor.
 Here is the link to the dataset: https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news
 <h1>Results</h1>
-![image](results/Classification_report of TF-IDF And Naive Bayes.png)
 
-![image](results/classification report bert model.png)
+<img src="results/Classification_report of TF-IDF And Naive Bayes.png">
 
-![image](results/classification report finbert model.png)
+<img src="results/classification report bert model.png">
+
+<img src="results/classification report finbert model.png">
