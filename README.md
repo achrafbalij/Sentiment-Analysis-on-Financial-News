@@ -7,11 +7,6 @@ Clone this repository:
 $ git clone clone https://github.com/achrafbalij/Sentiment-Analysis-on-Financial-News.git
 ```
 
-**Install requirements:**
-
-```
-pip install -r requirements.txt
-```
 <h1>Data</h1>
 The Dataset used is a kaggle dataset "FinancialPhraseBank". It contains the sentiments for financial news headlines from the perspective of a retail investor.
 Here is the link to the dataset: https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news
